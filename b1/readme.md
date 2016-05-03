@@ -16,6 +16,13 @@ Hãy thực hiện các yêu cầu sau:
     Nếu X không có trong mảng thì thông báo là X không tồn tại.
 7. Giả sử rằng mảng đã được sắp xếp, thực hiện tìm phần tử có giá trị bằng X trong mảng bằng thuật toán tìm kiếm nhị phân.
 
+```c
+int main() {
+    return 0;
+}
+```
+[full](bt1.cpp)
+
 # TH2: Các thuật toán sắp xếp nội
 
 ## Bài tập tham khảo
@@ -32,4 +39,6 @@ Hãy thực hiện các yêu cầu sau:
     * Sắp xếp chèn trực tiếp- Insertion Sort
 2. Viết hàm thực hiện thống kê số phép so sánh, số phép gán và so sánh thời gian chạy giữa các thuật toán sắp xếp mảng ở câu trên.
 3. Viết hàm kiểm tra mảng có là mảng tăng(/ giảm) dần không? Kết quả trả về true nếu mảng tăng dần, ngược lại trả về false.
+
+
 
